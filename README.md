@@ -59,7 +59,7 @@ We are proud to say that our MEV solution outperforms 99% of Arbitrage Bots on t
 | 0.1   ETH - 0.5   ETH       | Low                  | Up to 10%    |
 | 0.5   ETH - 1.2   ETH      | Moderate              | Up to 20%    |
 | 1.2   ETH - 2.4   ETH      | Moderate             | 20-27%      |
-| 2.4   ETH - 5.0 ETH       | High                 | 27-35%      |
+| 2.4   ETH - 5.0 ETH        | High                 | 27-35%      |
 | 5.0   ETH - 10    ETH        | High                 | 35-50%       |
 | 10    ETH - 20    ETH        | Very High            | 50-63%       |
 | 20    ETH - 50    ETH         | Very High            | 76%+         |
